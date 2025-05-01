@@ -1,10 +1,7 @@
 # End-to-End-Medical-Chatbot-GenAI
 End to End Medical chatbot using Pinecone as a vectorDB, with Html, CSS frontend and  Flask as web framework
 
-# End-to-end-Medical-Chatbot-Generative-AI
-
-
-# How to run?
+## How to run?
 ### STEPS:
 
 Clone the repository
@@ -51,7 +48,9 @@ Now,
 ```bash
 open up localhost:
 ```
+### Medical Chatbot:
 
+![alt text](image.png)
 
 ### Techstack Used:
 
